@@ -1,5 +1,5 @@
-## Information (Download [here](https://github.com/ameyalaad/Rasoee/releases/download/v1.0/rasoee.apk))
-This is the android application "Rasoee" for the PyTorch Summer Hackathon 2020.
+## Rasoee (Download [here](https://github.com/ameyalaad/Rasoee/releases/download/v1.0/rasoee.apk))
+This is the android application "Rasoee" for the Global PyTorch Summer Hackathon 2020.
 
 This application can recognize 308 types of food, using the camera, or the gallery. After identifying the food item, it uses [RecipePuppy](http://www.recipepuppy.com/about/api/)'s API in order to fetch up to 10 recipes and display them. 
 Furthermore, ingredients about the recipe can be found by tapping on the respective recipe, along with a link to the recipe.
